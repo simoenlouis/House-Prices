@@ -32,7 +32,8 @@ This project aims to predict residential home prices in Ames, Iowa, using 79 exp
 
 ## Author
 -Simoen Louis
+
 -GitHub: simoenlouis
 
-License
+## License
 This project is licensed under the MIT License.
