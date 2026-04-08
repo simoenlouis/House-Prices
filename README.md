@@ -31,9 +31,9 @@ This project aims to predict residential home prices in Ames, Iowa, using 79 exp
 - submission.csv: The final output file submitted to Kaggle.
 
 ## Author
--Simoen Louis
+- Simoen Louis
 
--GitHub: simoenlouis
+- GitHub: simoenlouis
 
 ## License
 This project is licensed under the MIT License.
