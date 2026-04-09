@@ -22,7 +22,7 @@ This project aims to predict residential home prices in Ames, Iowa, using 79 exp
 - *Scaling:* Standardized numerical features using *StandardScaler* to ensure all features contribute equally to the model.
 
 ### 3. Modeling & Optimization
-- *Algorithms:* Evaluated multiple models including Linear Regression and *XGBoost Regressor*.
+- *Algorithms:* Evaluated multiple models including Linear Regression, Ridge Regression and *XGBoost Regressor*.
 - *Hyperparameter Tuning:* Optimized XGBoost parameters to reach the best balance between bias and variance.
 
 ## Repository Structure
