@@ -30,10 +30,5 @@ This project aims to predict residential home prices in Ames, Iowa, using 79 exp
 - notebook.ipynb: The main Jupyter Notebook containing the full analysis and model.
 - submission.csv: The final output file submitted to Kaggle.
 
-## Author
-- Simoen Louis
-
-- GitHub: simoenlouis
-
 ## License
 This project is licensed under the MIT License.
