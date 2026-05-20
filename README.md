@@ -1,16 +1,17 @@
 # House Prices: Advanced Regression Techniques
-Kaggle Score: (0.13494)
+Kaggle Score: (0.13292)
 (https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ## 📌 Project Overview
 This project aims to predict residential home prices in Ames, Iowa, using 79 explanatory variables. It is a competition hosted on Kaggle where the goal is to practice advanced regression techniques like Random Forest and XGBoost.
 
 ## 📊 Performance
-- *Top Score (RMSLE):* 0.13494
-- *Validation R² Score:* 0.90+
-- *Rank:* Top 15% (Approx. 2000 out of 15,000+ competitors)
+- *Top Score (RMSLE):* 0.13292
+- *VElasticNet*
+        R2 train: 0.9052264100607921
+        R2 test: 0.8966840146702741
+- *Rank:* Top 15% (Approx. 2130 out of 15,000+ competitors)
 
-## 🛠️ Machine Learning Pipeline
 
 ### 1. Data Cleaning & Exploratory Data Analysis (EDA)
 - *Handling Missing Values:* Imputed numerical nulls with the mean/median and categorical nulls with the most frequent values (Mode).
