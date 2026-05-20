@@ -8,8 +8,8 @@ This project aims to predict residential home prices in Ames, Iowa, using 79 exp
 ## 📊 Performance
 - *Top Score (RMSLE):* 0.13292
 - *VElasticNet*
-        - * R2 train: 0.9052264100607921
-        - * R2 test: 0.8966840146702741
+- * R2 train: 0.9052264100607921
+- * R2 test: 0.8966840146702741
 - *Rank:* Top 15% (Approx. 2130 out of 15,000+ competitors)
 
 
